@@ -16,14 +16,14 @@ property descriptions, a built-in AI chatbot, social auto-posting, and Stripe bi
 Multiplayer, ephemeral mission-command web app built for Ingress field ops — real-time
 coordination with no persistent account baggage.
 
-#### [greps.net](https://greps.net) — [showcase repo](https://github.com/rocketskatesninja/greps-showcase)
+#### [Greps](https://greps.net)
 Domain-availability scanner that verifies bulk candidates across 35 TLDs via RDAP and scores/prices
 every hit. Idempotent billing ledger, token-bucket-paced live result streaming. Application source
-is private; repo above is a public showcase.
+is private; see the [showcase repo](https://github.com/rocketskatesninja/greps-showcase).
 
 #### [EVE Trade](https://github.com/rocketskatesninja/eve-trade-showcase)
 Showcase for a private, single-operator trading, industry, and threat-assessment tool for EVE
 Online. Application source stays private.
 
-#### [nixos-config](https://github.com/rocketskatesninja/nixos-config)
+#### [NixOS Config](https://github.com/rocketskatesninja/nixos-config)
 My personal NixOS system configuration — daily-driver setup, declarative and reproducible.
